@@ -3,7 +3,7 @@ Name = SettingTheTable
 Module = settingthetable
 
 [Python]
-Version = 0+
+Version = 3
 
 [Documentation]
 Description = Setting the table when it's flipped.
