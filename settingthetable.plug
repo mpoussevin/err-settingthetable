@@ -1,0 +1,9 @@
+[Core]
+Name = SettingTheTable
+Module = settingthetable
+
+[Python]
+Version = 0+
+
+[Documentation]
+Description = Setting the table when it's flipped.
