@@ -14,6 +14,7 @@ If you work with tricky people flipping multiples tables in one message, the plu
 
 Updates:
 
+* 2016/11/07: New pattern (╯°□°)╯︵ ┻━┻.
 * 2016/08/17: Adding tests.
 * 2016/06/01: Setting multiple tables flipped in one message.
 * 2016/05/25: First basic working version.

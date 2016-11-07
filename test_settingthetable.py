@@ -10,6 +10,8 @@ class TestSettingTheTable(object):
         """Test the module's function setting tables."""
         testbot.push_message("(╯°□°）╯︵ ┻━┻")
         assert "┬──┬ ノ( ゜-゜ノ)" in testbot.pop_message()
+        testbot.push_message("(╯°□°)╯︵ ┻━┻")
+        assert "┬──┬ ノ( ゜-゜ノ)" in testbot.pop_message()
         testbot.push_message("(╯°□°）╯︵ ┻━┻ ┻━┻")
         assert "┬──┬ ┬──┬ ノ( ゜-゜ノ)" in testbot.pop_message()
         testbot.push_message("(╯°□°）╯︵ ┻━┻┻━┻")
